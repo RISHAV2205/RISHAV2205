@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishav 👋</h1>
 
 <p align="center">
-  <b>third-year CS student · Aspiring Data Engineer & ML Engineer</b><br>
+  <b>Third-year CS student · Aspiring Data Engineer & ML Engineer</b><br>
   I build data pipelines, ML systems, and AI-powered apps, and ship them to production.
 </p>
 
